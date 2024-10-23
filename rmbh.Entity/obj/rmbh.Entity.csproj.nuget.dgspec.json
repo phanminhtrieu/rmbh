@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RememberHelper\\rmbh\\rmbh-backoffice\\rmbh-backoffice.csproj": {}
+    "D:\\RememberHelper\\rmbh\\rmbh.Entity\\rmbh.Entity.csproj": {}
   },
   "projects": {
-    "D:\\RememberHelper\\rmbh\\rmbh-backoffice\\rmbh-backoffice.csproj": {
+    "D:\\RememberHelper\\rmbh\\rmbh.Entity\\rmbh.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RememberHelper\\rmbh\\rmbh-backoffice\\rmbh-backoffice.csproj",
-        "projectName": "rmbh-backoffice",
-        "projectPath": "D:\\RememberHelper\\rmbh\\rmbh-backoffice\\rmbh-backoffice.csproj",
+        "projectUniqueName": "D:\\RememberHelper\\rmbh\\rmbh.Entity\\rmbh.Entity.csproj",
+        "projectName": "rmbh.Entity",
+        "projectPath": "D:\\RememberHelper\\rmbh\\rmbh.Entity\\rmbh.Entity.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\RememberHelper\\rmbh\\rmbh-backoffice\\obj\\",
+        "outputPath": "D:\\RememberHelper\\rmbh\\rmbh.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://nuget.pkg.github.com/simzyhub/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -38,8 +38,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -54,9 +54,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
